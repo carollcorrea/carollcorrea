@@ -34,7 +34,7 @@ Meu nome é Caroll, eu estou em transição de carreira de Social Media para Fro
 
 ### Estou aprendendo 
 
-<img align="center" alt="carol.javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" alt="carol.saas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 
