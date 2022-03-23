@@ -39,5 +39,5 @@ Meu nome é Caroll, eu estou em transição de carreira de Social Media para Fro
 <img align="center" alt="carol.sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" alt="carol.saas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<iframe src="https://giphy.com/embed/MBlSpxW9dqsiV8Vg4y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-midnight-gospel-the-midnightgospel-MBlSpxW9dqsiV8Vg4y">via GIPHY</a></p>
+
 
