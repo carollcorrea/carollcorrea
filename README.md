@@ -42,7 +42,7 @@ Meu nome é Caroll, eu estou em transição de carreira de Social Media para Fro
 <img align="center" alt="carol.sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" alt="carol.saas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    
-   
+   ##
    ![giphy (1)](https://user-images.githubusercontent.com/22200249/159599833-80ac07ee-f8e2-4a55-b6ca-cea2c46d48d9.gif)
 
 
