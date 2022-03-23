@@ -26,11 +26,7 @@ Meu nome é Caroll, eu estou em transição de carreira de Social Media para Fro
 
 - 🔭 Atualmente estou trabalhando no meu portifólio;
 - 🌱 Atualmente estou aprendendo Sass & Javascript;
-- 👯 Estou procurando colaborar em templates para web em Figma;
-- 🤔 Estou procurando ajuda com lógica de programação;
-- 💬 Pergunte-me sobre Adobe Illustrator;
 - 😄 Pronomes: Ela/Dela;
-- ⚡ Curiosidade: Eu tenho a sensação de que deveria ter estudado programação beeem antes!
 
 
 ### Estou aprendendo 
