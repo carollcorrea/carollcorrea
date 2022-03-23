@@ -32,6 +32,12 @@ Meu nome é Caroll, eu estou em transição de carreira de Social Media para Fro
 - 🔭 Atualmente estou trabalhando no meu portifólio;
 - 🌱 Atualmente estou aprendendo Sass & Javascript;
 - 😄 Pronomes: Ela/Dela;
+   
+   
+   
+   
+   
+![giphy (1)](https://user-images.githubusercontent.com/22200249/159599833-80ac07ee-f8e2-4a55-b6ca-cea2c46d48d9.gif)
 
 
 ### Estou aprendendo 
